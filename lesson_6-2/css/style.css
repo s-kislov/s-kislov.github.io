@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.blok-1 {
+  height: 400px;
+  width: 300px;
+  background: white;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  border: 2px solid #ccc;
+  padding: 20px 30px;
+}
