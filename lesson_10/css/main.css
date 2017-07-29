@@ -1,0 +1,121 @@
+.header {
+  background: linear-gradient(180deg, #f8c14c, #f49f23);
+  height: 150px;
+}
+.header .logo-group {
+  margin: 35px;
+}
+.header .menu {
+  margin: 35px 0 35px 100px;
+  text-align: center;
+  background: #232323;
+  width: 540px;
+  height: 80px;
+}
+.header .menu .btn {
+  margin: 25px auto;
+  display: inline-block;
+  background: #232323;
+  border: none;
+  color: #f8be48;
+  font-size: 13px;
+  font-weight: 900;
+  font-family: PTSansNarrow;
+}
+.title-parent {
+  background: #fbd59c;
+}
+.title-parent .title-block {
+  border: 1px solid white;
+  font-family: AABebasNeue;
+  font-size: 22px;
+  font-weight: 900;
+  color: #505050;
+}
+.title-parent .title-block .title {
+  margin: 15px;
+}
+.content {
+  margin-top: 50px;
+  margin-left: 27px;
+}
+.ad {
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  height: 65px;
+  padding-left: 5px;
+}
+.icon {
+  background: #e5e5e5;
+  height: 65px;
+  width: 150px;
+  padding: 20px;
+  margin: 0 5px 0 0;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  border-left: 1px dotted #c2c2c2;
+}
+.ad-1 {
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  height: 65px;
+}
+.icon-1 {
+  background: #e5e5e5;
+  height: 65px;
+  width: 175px;
+  padding: 20px;
+  margin: 0 5px 0 0;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  border-left: 1px dotted #c2c2c2;
+}
+.ad-2 {
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  height: 65px;
+}
+.icon-2 {
+  background: #e5e5e5;
+  height: 65px;
+  width: 175px;
+  padding: 20px;
+  margin: 0 5px 0 0;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  border-left: 1px dotted #c2c2c2;
+}
+.ad-3 {
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  height: 65px;
+}
+.icon-3 {
+  background: #e5e5e5;
+  height: 65px;
+  width: 175px;
+  padding: 20px;
+  margin: 0 5px 0 0;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  border-left: 1px dotted #c2c2c2;
+}
+.ad-4 {
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  height: 65px;
+}
+.icon-4 {
+  background: #e5e5e5;
+  height: 65px;
+  width: 175px;
+  padding: 20px;
+  margin: 0 5px 0 0;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  border-left: 1px dotted #c2c2c2;
+}
+ins {
+  color: black;
+}
+body {
+  height: 100%;
+  padding-bottom: 97px;
+  bottom: 0;
+  border-bottom: 5px solid #f5a72c;
+}
