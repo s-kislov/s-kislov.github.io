@@ -1,0 +1,62 @@
+body {
+  background: #ccc;
+}
+
+p.footer-1 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p.for-faser {
+  text-align: right;
+  font-style: italic;
+}
+
+
+table {
+  width: 400px;
+  margin: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: black;
+  background: linear-gradient(45deg, #ccc, #666);
+}
+
+td {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+}
+
+.text {
+  text-align: justify;
+}
+
+.text-i {
+  font-style: italic;
+}
+
+.text-u {
+ text-decoration: underline;
+ font-weight: bolder;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+}
+
+text {
+  font-style: underline;
+}
+
+
