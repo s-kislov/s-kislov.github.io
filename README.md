@@ -11,5 +11,5 @@
 * [Урок №9](s-kislov.github.io/lesson_9 "Урок №9")  
 * [Урок №10](s-kislov.github.io/lesson_10 "Урок №10")  
 * [Урок №11](s-kislov.github.io/lesson_11 "Урок №11")
-* [Урок №13](s-kislov.github.io/lesson_13 "Урок №13")
+* [Урок №13](s-kislov.github.io/lesson_13)
 
