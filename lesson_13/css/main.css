@@ -1,0 +1,76 @@
+body {
+  background-size: 570px 570px;
+}
+.section {
+  width: 570px;
+  height: 570px;
+  padding-top: 100px;
+  background-image: url(../img/bg.png);
+}
+.window {
+  background-color: #fff;
+  height: 370px;
+  width: 320px;
+  border: 1px solid #cfdede;
+  margin: 0 auto;
+}
+.form-group {
+  width: 260px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+p {
+  height: 25px;
+  box-shadow: 0 2px 0 rgba(223, 225, 225, 0.5);
+  line-height: 25px;
+  width: 150px;
+  background-color: #01b3b3;
+  color: #fff;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 0 auto;
+  margin-left: 30px;
+  margin-top: -4px;
+}
+em {
+  color: #01b3b3;
+}
+.btn {
+  height: 45px;
+  width: 260px;
+  border: 1px solid #06bfbf;
+  margin-top: 34px;
+  margin-left: 30px;
+  background: linear-gradient(180deg, #41d4d4, #0aa2a2);
+  font-family: Arial;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+.txt1 {
+  margin-top: 31px;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 12px;
+  font-weight: 700;
+}
+.input1 {
+  margin-top: 3px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: 500;
+  background-image: url(../img/bg.png);
+}
+.txt2,
+.txt3 {
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 0px;
+}
+.input2,
+.input3 {
+  margin-top: 4px;
+  background-image: url(../img/bg.png);
+}
