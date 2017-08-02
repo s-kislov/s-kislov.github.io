@@ -13,5 +13,8 @@
 * [Урок №11](s-kislov.github.io/lesson_11 "Урок №11")
 * [Урок №13](s-kislov.github.io/lesson_13)
 * [Практика №1](s-kislov.github.io/practice_1/)
+* [Урок №14](s-kislov.github.io/lesson_14/)
+
+
 
 
