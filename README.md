@@ -16,6 +16,7 @@
 * [Урок №14](s-kislov.github.io/lesson_14/)
 * [Практика №2](s-kislov.github.io/practice_2/)
 * [Урок №15](s-kislov.github.io/lesson_15/)
+* [Урок №16](s-kislov.github.io/lesson_16/)
 
 
 
