@@ -1,0 +1,14 @@
+img {
+  width: 300px;
+  height: 220px;
+  margin-top: 10px;
+}
+.btn-k {
+  display: block;
+  margin-top: 3px;
+  margin-left: 80px;
+}
+.modal-title {
+  text-align: center;
+  font-weight: 900;
+}
