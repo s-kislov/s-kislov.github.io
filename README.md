@@ -12,7 +12,7 @@
 * [Урок №10](s-kislov.github.io/lesson_10 "Урок №10")  
 * [Урок №11](s-kislov.github.io/lesson_11 "Урок №11")
 * [Урок №13](s-kislov.github.io/lesson_13)
-> * [Практика №1](s-kislov.github.io/practice_1/)
+...* [Практика №1](s-kislov.github.io/practice_1/)
 * [Урок №14](s-kislov.github.io/lesson_14/)
 > * [Практика №2](s-kislov.github.io/practice_2/)
 * [Урок №15](s-kislov.github.io/lesson_15/)
