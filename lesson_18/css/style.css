@@ -1,6 +1,7 @@
 body {
   font-family: 'Myriad Pro', sans-serif;
   background: url('../img/bg.jpg') no-repeat top center;
+  background-size: cover;
 }
 .container {
   height: 600px;
