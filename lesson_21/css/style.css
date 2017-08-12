@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+section {
+  height: 1000px;
+  padding: 20%;
+}
+
