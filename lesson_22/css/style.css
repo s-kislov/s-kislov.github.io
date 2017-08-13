@@ -1,0 +1,38 @@
+
+.contacts {
+  position: absolute;
+  z-index: 9;
+  top: 0;
+  width: 380px;
+  height: 430px;
+  padding-top: 120px;
+  margin-left: 55px;
+  background-color: #c60b0b;
+  color: #fff;
+  text-align: center;
+}
+
+.main-footer  {
+  margin-top: 20px;
+}
+.footer {
+  margin-top: 5px;
+}
+.footer:before {
+  content: "";
+  display: inline-block;
+  position: relative;
+  background: url(../img/logo.png);
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin: -4px 6px 0 0;
+}
+
+.center-footer {
+  color: #666;
+  margin-top: 15px;
+}
+strong {
+  font-size: 23px;
+}
